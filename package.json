@@ -1,8 +1,8 @@
 {
-  "name": "@catcolortoken/sdk-v2",
+  "name": "@bullswap/sdk-v2",
   "license": "MIT",
   "version": "2.2.1",
-  "description": "🛠 An SDK for building applications on top of catcolor.",
+  "description": "🛠 An SDK for building applications on top of bullswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/catcolormeme/catcolor-sdk-v2.git"
+    "url": "git+https://github.com/bullswaptoken/sdk.git"
   },
   "keywords": [
-    "catcolor",
+    "bullswap",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
@@ -62,11 +62,11 @@
     "singleQuote": true
   },
   "bugs": {
-    "url": "https://github.com/catcolormeme/catcolor-sdk-v2/issues"
+    "url": "https://github.com/bullswaptoken/sdk/issues"
   },
-  "homepage": "https://github.com/catcolormeme/catcolor-sdk-v2#readme",
+  "homepage": "https://github.com/bullswaptoken/sdk#readme",
   "directories": {
     "test": "test"
   },
-  "author": "CatColor"
+  "author": "BullSwap"
 }
